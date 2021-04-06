@@ -1,6 +1,6 @@
 {
   "name": "toolkit-medical",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "toolkit for health projects",
   "main": "lib/index.js",
   "directories": {
